@@ -19,6 +19,7 @@
 }
 
 #nav li {
+    position: relative;
     float: left;
 }
 
@@ -26,4 +27,18 @@
     float: left;
     text-decoration: none;
     padding: 0 30px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.row {
+    padding-top: em;
+    padding-left: 5em;
+    padding-right: 5em;
+}
+
+.card {
+    max-width: 30rem;
 }
