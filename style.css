@@ -1,0 +1,29 @@
+#wrap {
+    overflow: hidden;
+    position: relative;
+    background-color: black;
+    padding-top: 1rem;
+}
+
+#nav {
+    float: left;
+    position: relative;
+    left: 50%;
+}
+
+#nav ul {
+    float: left;
+    position: relative;
+    left: -50%;
+    list-style: none;
+}
+
+#nav li {
+    float: left;
+}
+
+#nav a {
+    float: left;
+    text-decoration: none;
+    padding: 0 30px;
+}
