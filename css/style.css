@@ -130,7 +130,7 @@ ul li.active a{
 
 .jud2{
 	position: absolute;
-	top: 10%;
+	top: 15%;
 	left: 50%;
 	transform: translate(-50%,-50%);
 	text-align: center;
@@ -252,4 +252,10 @@ button{
 	src: url(fonta/Roboto-Thin.ttf);
 	font-style: normal;
 	font-weight: 100;
+}
+
+#nav {
+    float: left;
+    position: relative;
+    left: 30%;
 }
