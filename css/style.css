@@ -5,7 +5,7 @@
 }
 
 header{
-	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../background.jpeg);
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../gambar/background.jpeg);
 	height: 100vh;
 	background-size: cover;
 	background-position: center;
@@ -130,7 +130,7 @@ ul li.active a{
 
 .jud2{
 	position: absolute;
-	top: 15%;
+	top: 10%;
 	left: 50%;
 	transform: translate(-50%,-50%);
 	text-align: center;
@@ -252,10 +252,4 @@ button{
 	src: url(fonta/Roboto-Thin.ttf);
 	font-style: normal;
 	font-weight: 100;
-}
-
-#nav {
-    float: left;
-    position: relative;
-    left: 30%;
 }
